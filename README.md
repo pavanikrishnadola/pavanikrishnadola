@@ -1,4 +1,4 @@
-<h1 align="center">🌷 Hey there, I'm Pavani Krishna Dola 🌷</h1>
+<h1 align="center">✨ Hey there, I'm Pavani Krishna Dola ✨</h1>
 
 <p align="center">
   <img src="https://i.imgflip.com/65efzo.gif" width="200" alt="Coding Girl GIF">
@@ -40,7 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanikrishnadola&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
 ### 🌈 Let’s Connect!
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="51" height="35" alt="instagram logo"  />
@@ -49,12 +48,12 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="35" alt="linkedin logo"  />
 </div>
 
-
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-
+<p align="center">
+  <img src="https://ghchart.rshah.org/pavanikrishnadola" width="600" alt="GitHub contribution chart" />
+</p>
 
 
 ⭐ *“Code. Create. Repeat.”*  
 ✨ Thanks for visiting my GitHub profile! ✨
-
