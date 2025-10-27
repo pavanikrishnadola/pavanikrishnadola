@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hey there, I'm Pavani Krishna Dola ✨</h1>
 
 <p align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" width="200" alt="Coding Girl GIF">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="developer at work">
 </p>
 
 <h3 align="center">💻 Python Full Stack Developer | 💡 Passionate Learner | 🌈 Creative Coder</h3>
