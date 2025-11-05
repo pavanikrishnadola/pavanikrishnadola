@@ -49,7 +49,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="35" alt="linkedin logo"  />
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 <p align="center">
   <img src="https://ghchart.rshah.org/pavanikrishnadola" width="600" alt="GitHub contribution chart" />
