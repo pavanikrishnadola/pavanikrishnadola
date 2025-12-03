@@ -41,6 +41,10 @@
   <img src="https://streak-stats.demolab.com?user=pavanikrishnadola&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanikrishnadola&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
+### 🏆Badges
+<a href="https://www.postman.com">
+  <img src="https://link-to-your-badge-image.png" alt="Postman API Fundamentals Student Expert" width="120"/>
+</a>
 
 ### 🌈 Let’s Connect!
 <div align="left">
