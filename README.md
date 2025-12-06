@@ -63,6 +63,7 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/pavanikrishnadola" width="600" alt="GitHub contribution chart"/>
 </p>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6933c9adf33145208b93c8d0?variant=dark" alt="roadmap.sh"/></a>
 
 ⭐ *“Code. Create. Repeat.”*
 <br>✨ Thanks for visiting my GitHub profile! ✨
