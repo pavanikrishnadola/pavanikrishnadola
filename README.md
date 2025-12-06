@@ -36,16 +36,16 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pavanikrishnadola&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="streak graph"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=pavanikrishnadola&show_icons=true&theme=radical&hide_border=false" height="160" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanikrishnadola&layout=compact&langs_count=6&theme=shades-of-purple&hide_border=false" height="160" alt="languages graph"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pavanikrishnadola&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanikrishnadola&theme=dracula" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pavanikrishnadola&layout=compact&theme=shades-of-purple" height="160" />
 </div>
 
 ---
 
 ### 🏅 Badges
 <a href="https://www.postman.com">
-  <img src="https://raw.githubusercontent.com/pavanikrishnadola/your-repo-name/main/badges/postman.png" width="130" alt="Postman Badge"/>
+  <img src="https://img.shields.io/badge/Postman-Certified-orange?logo=postman&logoColor=white" width="150" alt="Postman Badge"/>
 </a>
 
 ---
