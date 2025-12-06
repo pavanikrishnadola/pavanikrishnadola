@@ -8,15 +8,16 @@
 
 ---
 
-### 👩‍💻 About Me  
-🌸 I’m a **Python Full Stack Developer** who loves crafting backend logic and beautiful user interfaces.  
-💻 Skilled in **Django**, **Flask**, **HTML**, **CSS**, **JavaScript**, and **MySQL**.  
-🚀 I aim to build clean, simple, and powerful web experiences.  
-☕ Fueled by curiosity, creativity, and caffeine!
+### 👩‍💻 About Me
+
+🌸 I’m a **Python Full Stack Developer** who loves crafting backend logic and beautiful user interfaces.
+<br>💻 Skilled in **Django**, **Flask**, **HTML**, **CSS**, **JavaScript**, and **MySQL**.
+<br>🚀 I aim to build clean, simple, and powerful web experiences.
+<br>☕ Fueled by curiosity, creativity, and caffeine!
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="python logo"/>
   <img width="12" />
@@ -33,18 +34,16 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pavanikrishnadola&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="streak graph"/>
-  
   <img src="https://github-readme-stats.vercel.app/api?username=pavanikrishnadola&show_icons=true&theme=radical&hide_border=false" height="160" alt="stats graph"/>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanikrishnadola&layout=compact&langs_count=6&theme=shades-of-purple&hide_border=false" height="160" alt="languages graph"/>
 </div>
 
 ---
 
-### 🏅 Badges  
+### 🏅 Badges
 <a href="https://www.postman.com">
   <img src="https://raw.githubusercontent.com/pavanikrishnadola/your-repo-name/main/badges/postman.png" width="130" alt="Postman Badge"/>
 </a>
@@ -65,5 +64,5 @@
   <img src="https://ghchart.rshah.org/pavanikrishnadola" width="600" alt="GitHub contribution chart"/>
 </p>
 
-⭐ *“Code. Create. Repeat.”*  
-✨ Thanks for visiting my GitHub profile! ✨
+⭐ *“Code. Create. Repeat.”*
+<br>✨ Thanks for visiting my GitHub profile! ✨
