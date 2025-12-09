@@ -1,5 +1,4 @@
-<img src="sandbox:/mnt/data/ChatGPT%20Image%20Dec%209%2C%202025%2C%2001_39_10%20PM.png" width="800" alt="Banner">
-</h1>
+<h1 align="center">✨! Dola Pavani Krishna !✨</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="developer at work">
@@ -8,6 +7,10 @@
 <h3 align="center">💻 Python Full Stack Developer | 💡 Passionate Learner | 🌈 Creative Coder</h3>
 
 ---
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 ### 👩‍💻 About Me
 
@@ -69,6 +72,9 @@
 ## 🏆 Daily.dev Card
 <img src="https://raw.githubusercontent.com/pavanikrishnadola/pavanikrishnadola/main/pavanikrishna.png" width="400" alt="Daily.dev Card"/>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pavanikrishnadola.pavanikrishnadola&"  />
+</div>
 
 ⭐ *“Code. Create. Repeat.”*
 <br>✨ Thanks for visiting my GitHub profile! ✨
