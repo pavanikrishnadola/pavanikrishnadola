@@ -66,7 +66,7 @@
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6933c9adf33145208b93c8d0?variant=dark" alt="roadmap.sh"/></a>
 
 ## 🏆 Daily.dev Card
-<img src="https://raw.githubusercontent.com/pavanikrishna13/pavanikrishna13/main/pavanikrishna_readme.png" width="400" alt="Daily.dev Card"/>
+<img src="https://raw.githubusercontent.com/pavanikrishnadola/pavanikrishnadola/main/pavanikrishna.png" width="400" alt="Daily.dev Card"/>
 
 
 ⭐ *“Code. Create. Repeat.”*
