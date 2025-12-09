@@ -1,4 +1,5 @@
-<h1 align="center">✨ Hey there, I'm Pavani Krishna Dola ✨</h1>
+<img src="sandbox:/mnt/data/ChatGPT%20Image%20Dec%209%2C%202025%2C%2001_39_10%20PM.png" width="800" alt="Banner">
+</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="developer at work">
