@@ -1,8 +1,7 @@
-<h1 align="center">✨! Dola Pavani Krishna !✨</h1>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="developer at work">
+  <img src="https://raw.githubusercontent.com/pavanikrishnadola/pavanikrishnadola/main/logo1.png" width="500">
 </p>
+
 
 <h3 align="center">💻 Python Full Stack Developer | 💡 Passionate Learner | 🌈 Creative Coder</h3>
 
@@ -11,6 +10,10 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="developer at work">
+</p>
 
 ### 👩‍💻 About Me
 
