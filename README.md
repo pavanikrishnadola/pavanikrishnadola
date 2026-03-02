@@ -18,7 +18,7 @@
 ### 👩‍💻 About Me
 
 🌸 I’m a **Python Full Stack Developer** who loves crafting backend logic and beautiful user interfaces.
-<br>💻 Skilled in **Django**, **Flask**, **HTML**, **CSS**, **JavaScript**, and **MySQL**.
+<br>💻 Skilled in **Django**, **HTML**, **CSS**, **JavaScript**, and **MySQL**.
 <br>🚀 I aim to build clean, simple, and powerful web experiences.
 <br>☕ Fueled by curiosity, creativity, and caffeine!
 
